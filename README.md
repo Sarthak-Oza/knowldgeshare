@@ -13,6 +13,14 @@ Welcome to the Knowledge Sharing App! This web application allows users to share
 
 Check out the live demo of the Knowledge Sharing App [here](https://knowledgesharing.netlify.app/).
 
+## Screenshots
+
+![image](https://github.com/Sarthak-Oza/knowldgeshareWebApp/assets/68885011/35e8535e-12b7-4d4c-8437-f17b4fcfdb41)
+
+![image](https://github.com/Sarthak-Oza/knowldgeshareWebApp/assets/68885011/29f20d44-1baf-4091-a0ce-b50102dc01aa)
+
+![image](https://github.com/Sarthak-Oza/knowldgeshareWebApp/assets/68885011/f2c3855b-374b-4bf6-8479-b2516fe4dae3)
+
 ## Setup Instructions:
 
 To set up the Knowledge Sharing App on your local machine, follow these steps:
@@ -40,13 +48,5 @@ npm start
 - React Router: For handling navigation within the application.
 - Axios: For making HTTP requests to interact with the backend.
 - Netlify: For hosting the web application.
-
-## Screenshots
-
-![image](https://github.com/Sarthak-Oza/knowldgeshareWebApp/assets/68885011/35e8535e-12b7-4d4c-8437-f17b4fcfdb41)
-
-![image](https://github.com/Sarthak-Oza/knowldgeshareWebApp/assets/68885011/29f20d44-1baf-4091-a0ce-b50102dc01aa)
-
-![image](https://github.com/Sarthak-Oza/knowldgeshareWebApp/assets/68885011/f2c3855b-374b-4bf6-8479-b2516fe4dae3)
 
 
