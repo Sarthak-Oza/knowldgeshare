@@ -1,72 +1,52 @@
-# Demo -> https://knowledgesharing.netlify.app/
+# Knowledge Sharing App
 
-# Getting Started with Create React App
+Welcome to the Knowledge Sharing App! This web application allows users to share information with everyone and interact with facts through various actions such as upvoting, downvoting, and reporting incorrect facts. Users can also filter facts based on different categories including finance, entertainment, health, history, and more.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Features:
 
-## Available Scripts
+- **Fact Sharing**: Users can share interesting and informative facts with the community.
+- **Voting System**: Users can express their opinion on facts by upvoting or downvoting them.
+- **Reporting**: Users can report facts as incorrect if they find inaccuracies.
+- **Category Filtering**: Facts can be filtered based on different categories for easy navigation.
 
-In the project directory, you can run:
+## Demo:
 
-### `npm start`
+Check out the live demo of the Knowledge Sharing App [here](https://knowledgesharing.netlify.app/).
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Setup Instructions:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+To set up the Knowledge Sharing App on your local machine, follow these steps:
 
-### `npm test`
+1. Clone the repository:
+```
+git clone <repository-url>
+   ```
+2. Navigate to the project directory:
+  ```
+cd knowledge-sharing-app
+  ```
+3. Install dependencies:
+  ```
+npm install
+  ```
+4. Start the development server:
+  ```
+npm start
+  ```
+5. Open your browser and visit ```http://localhost:3000``` to view the app.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Technology Used
+- React: A JavaScript library for building user interfaces.
+- React Router: For handling navigation within the application.
+- Axios: For making HTTP requests to interact with the backend.
+- Netlify: For hosting the web application.
 
-### `npm run build`
+## Screenshots
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![image](https://github.com/Sarthak-Oza/knowldgeshareWebApp/assets/68885011/35e8535e-12b7-4d4c-8437-f17b4fcfdb41)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![image](https://github.com/Sarthak-Oza/knowldgeshareWebApp/assets/68885011/29f20d44-1baf-4091-a0ce-b50102dc01aa)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![image](https://github.com/Sarthak-Oza/knowldgeshareWebApp/assets/68885011/f2c3855b-374b-4bf6-8479-b2516fe4dae3)
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
